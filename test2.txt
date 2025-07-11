@@ -1,0 +1,1 @@
+Creating the text2.txt file in git repo and trying to pull this file from local repo.
